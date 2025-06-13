@@ -14,6 +14,12 @@ def download_data(date, output_dir='data'):
     # Crear directorio si no existe
     Path(output_dir).mkdir(parents=True, exist_ok=True)
     
+    # Verificar si el archivo ya existe
+    filename = Path(output_dir) / f"data_{date.strftime('%Y-%m-%d')}.json"
+    if filename.exists():
+        print(f"El archivo {filename} ya existe, omitiendo descarga para {date}")
+        return True
+        
     # Configurar la URL y parámetros
     url = "https://www.simem.co/backend-files/api/PublicData"
     params = {
@@ -37,7 +43,6 @@ def download_data(date, output_dir='data'):
             return False
             
         # Guardar los datos en un archivo
-        filename = Path(output_dir) / f"data_{date.strftime('%Y-%m-%d')}.json"
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(response_data, f, indent=2, ensure_ascii=False)
         print(f"Datos guardados en {filename}")
@@ -54,7 +59,7 @@ def download_data(date, output_dir='data'):
 def main():
     # Descargar datos para enero a mayo de 2025
     start_date = date(2025, 1, 1)
-    end_date = date(2025, 1, 31)
+    end_date = date(2025, 5, 30)
     
     current_date = start_date
     while current_date <= end_date:

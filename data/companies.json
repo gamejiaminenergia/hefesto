@@ -1,0 +1,1197 @@
+[
+    {
+        "company": 0,
+        "company_code": "SAF",
+        "company_name": "INVERSIONES, SUMINISTROS  Y SERVICIOS SAFEANA S.A.S. E.S.P. -COMERCIALIZADOR"
+    },
+    {
+        "company": 1,
+        "company_code": "IMD",
+        "company_name": "I + D ENERGY S.A.S ESP"
+    },
+    {
+        "company": 2,
+        "company_code": "SAP",
+        "company_name": "SAMPI JPD S.A.S. E.S.P."
+    },
+    {
+        "company": 3,
+        "company_code": "EMR",
+        "company_name": "ELECTRIFICADORA DEL MUNICIPIO DE RIOSUCIO CHOCO S.A. E.S.P."
+    },
+    {
+        "company": 4,
+        "company_code": "DES",
+        "company_name": "DESARROLLO EL\u00c9CTRICO SURIA S.A.S. E.S.P."
+    },
+    {
+        "company": 5,
+        "company_code": "TCE",
+        "company_name": "TRANSMISORA COLOMBIANA DE ENERGIA S.A.S. E.S.P."
+    },
+    {
+        "company": 6,
+        "company_code": "ENZ",
+        "company_name": "ENLAZA GRUPO ENERGIA BOGOTA SAS ESP"
+    },
+    {
+        "company": 7,
+        "company_code": "ISA",
+        "company_name": "INTERCONEXION ELECTRICA S.A. E.S.P."
+    },
+    {
+        "company": 8,
+        "company_code": "ITC",
+        "company_name": "ISA INTERCOLOMBIA S.A. E.S.P."
+    },
+    {
+        "company": 9,
+        "company_code": "TRS",
+        "company_name": "TRANSELCA S.A. E.S.P."
+    },
+    {
+        "company": 10,
+        "company_code": "DIS",
+        "company_name": "DISTASA S.A. E.S.P."
+    },
+    {
+        "company": 11,
+        "company_code": "EEB",
+        "company_name": "GRUPO ENERGIA BOGOTA SA ESP"
+    },
+    {
+        "company": 12,
+        "company_code": "CMC",
+        "company_name": "COMPA\u00d1\u00cdA EL\u00c9CTRICA DEL MAR CARIBE S.A.S. E.S.P"
+    },
+    {
+        "company": 13,
+        "company_code": "CNA",
+        "company_name": "CONELCA S.A.S. E.S.P."
+    },
+    {
+        "company": 14,
+        "company_code": "EER",
+        "company_name": "EMPRESA ELECTRICA REGIONAL SAS ESP"
+    },
+    {
+        "company": 15,
+        "company_code": "TEC",
+        "company_name": "TRANSPORTADORA ELECTRICA DEL CARIBE S.A.S. E.S.P."
+    },
+    {
+        "company": 16,
+        "company_code": "EEA",
+        "company_name": "ENERG\u00cdA EL\u00c9CTRICA DE LA COSTA ATL\u00c1NTICA S.A. E.S.P"
+    },
+    {
+        "company": 17,
+        "company_code": "CNG",
+        "company_name": "CEN ENERGY S.A.S. E.S.P."
+    },
+    {
+        "company": 18,
+        "company_code": "ECS",
+        "company_name": "ENERGIA DE COLOMBIA STR S.A.S. E.S.P."
+    },
+    {
+        "company": 19,
+        "company_code": "DEG",
+        "company_name": "DESARROLLO ELECTRICO DEL RIO GUATAPURI SAS ESP"
+    },
+    {
+        "company": 20,
+        "company_code": "JRD",
+        "company_name": "JULIA"
+    },
+    {
+        "company": 21,
+        "company_code": "PWF",
+        "company_name": "POWER FINTECH S.A. E.S.P."
+    },
+    {
+        "company": 22,
+        "company_code": "STO",
+        "company_name": "STOCK ENERGY SAS ESP"
+    },
+    {
+        "company": 23,
+        "company_code": "GRE",
+        "company_name": "GRUPO ENERG\u00c9TICO SA ESP"
+    },
+    {
+        "company": 24,
+        "company_code": "DTE",
+        "company_name": "2T ENERGY S.A.S. E.S.P."
+    },
+    {
+        "company": 25,
+        "company_code": "RQE",
+        "company_name": "ENERGIA Y AGUA S.A.S. E.S.P."
+    },
+    {
+        "company": 26,
+        "company_code": "ZON",
+        "company_name": "ZONERGY SAS ESP"
+    },
+    {
+        "company": 27,
+        "company_code": "ENI",
+        "company_name": "EMPRESA DE ENERG\u00cdA DE ARAUCA E.S.P."
+    },
+    {
+        "company": 28,
+        "company_code": "CBY",
+        "company_name": "CARBOENERGY SAS ESP"
+    },
+    {
+        "company": 29,
+        "company_code": "ESV",
+        "company_name": "EMPRESA SIGLO XXI EICE ESP"
+    },
+    {
+        "company": 30,
+        "company_code": "EDP",
+        "company_name": "EMPRESA DISTRIBUIDORA DEL PACIFICO S.A. E.S.P."
+    },
+    {
+        "company": 31,
+        "company_code": "EMM",
+        "company_name": "ECOMMERCIAL S.A.S. E.S.P."
+    },
+    {
+        "company": 32,
+        "company_code": "ETT",
+        "company_name": "ENERTOTAL S.A. E.S.P."
+    },
+    {
+        "company": 33,
+        "company_code": "FRE",
+        "company_name": "FRANCA ENERGIA SA ESP"
+    },
+    {
+        "company": 34,
+        "company_code": "VIC",
+        "company_name": "EMPRESA DE ENERG\u00cdA EL\u00c9CTRICA DEL DEPARTAMENTO DEL VICHADA"
+    },
+    {
+        "company": 35,
+        "company_code": "PRY",
+        "company_name": "PROENERGY S.A.S.E.S.P."
+    },
+    {
+        "company": 36,
+        "company_code": "ESN",
+        "company_name": "ES INVEST COLOMBIA S.A.S. ESP"
+    },
+    {
+        "company": 37,
+        "company_code": "ASC",
+        "company_name": "A.S.C. INGENIERIA S.A. E.S.P."
+    },
+    {
+        "company": 38,
+        "company_code": "CHC",
+        "company_name": "CENTRAL HIDROELECTRICA DE CALDAS S.A. E.S.P. BENEFICIO E INTERES COLECTIVO"
+    },
+    {
+        "company": 39,
+        "company_code": "ESO",
+        "company_name": "EMPRESA DE SERVICIOS P\u00daBLICOS DEL OCCIDENTE COLOMBIANO"
+    },
+    {
+        "company": 40,
+        "company_code": "CBN",
+        "company_name": "COLOMBINA ENERGIA SAS ESP"
+    },
+    {
+        "company": 41,
+        "company_code": "AMR",
+        "company_name": "AMERICANA DE ENERGIA S.A.S. E.S.P."
+    },
+    {
+        "company": 42,
+        "company_code": "ETN",
+        "company_name": "ENERGY TRANSITIONS S.A.S. E.S.P."
+    },
+    {
+        "company": 43,
+        "company_code": "QIE",
+        "company_name": "QI ENERGY S.A.S. E.S.P."
+    },
+    {
+        "company": 44,
+        "company_code": "FFE",
+        "company_name": "FORCEFUL ENERGY S.A.S. E.S.P."
+    },
+    {
+        "company": 45,
+        "company_code": "EPT",
+        "company_name": "EMPRESA DE ENERGIA DEL PUTUMAYO S.A. E.S.P."
+    },
+    {
+        "company": 46,
+        "company_code": "AMP",
+        "company_name": "AMPERIA S.A. E.S.P."
+    },
+    {
+        "company": 47,
+        "company_code": "SCE",
+        "company_name": "SOL & CIELO ENERGIA S.A.S. E.S.P"
+    },
+    {
+        "company": 48,
+        "company_code": "EBP",
+        "company_name": "EMPRESA DE ENERGIA DEL BAJO PUTUMAYO S.A. E.S.P."
+    },
+    {
+        "company": 49,
+        "company_code": "EDI",
+        "company_name": "ELECTRIFICADORA DEL CARIBE S.A. E.S.P"
+    },
+    {
+        "company": 50,
+        "company_code": "AES",
+        "company_name": "AGENTE EXPERTO EN SERVICIOS P\u00daBLICOS S.A.S E.S.P"
+    },
+    {
+        "company": 51,
+        "company_code": "ENB",
+        "company_name": "ENERBIT S.A.S. E.S.P."
+    },
+    {
+        "company": 52,
+        "company_code": "IAE",
+        "company_name": "IA ENERG\u00cdA Y GESTI\u00d3N S.A.S. E.S.P."
+    },
+    {
+        "company": 53,
+        "company_code": "RTQ",
+        "company_name": "RUITOQUE S.A. E.S.P."
+    },
+    {
+        "company": 54,
+        "company_code": "CNS",
+        "company_name": "CENTRALES ELECTRICAS DEL NORTE DE SANTANDER S.A. E.S.P."
+    },
+    {
+        "company": 55,
+        "company_code": "SMT",
+        "company_name": "SMARTEN S.A.S. E.S.P."
+    },
+    {
+        "company": 56,
+        "company_code": "GAP",
+        "company_name": "GAP ENERGY GROUP SAS ESP"
+    },
+    {
+        "company": 57,
+        "company_code": "NES",
+        "company_name": "NOVA ENERGY STAR S.A.S. E.S.P."
+    },
+    {
+        "company": 58,
+        "company_code": "EGV",
+        "company_name": "EMPRESA DE ENERGIA ELECTRICA DEL DEPARTAMENTO DEL GUAVIARE S.A. E.S.P."
+    },
+    {
+        "company": 59,
+        "company_code": "BIA",
+        "company_name": "BIA ENERGY S.A.S. E.S.P"
+    },
+    {
+        "company": 60,
+        "company_code": "ENO",
+        "company_name": "ENERGIA Y ALUMBRADO DE COLOMBIA SAS ESP"
+    },
+    {
+        "company": 61,
+        "company_code": "EDQ",
+        "company_name": "EMPRESA DE ENERGIA DEL QUINDIO S.A. E.S.P."
+    },
+    {
+        "company": 62,
+        "company_code": "BIG",
+        "company_name": "BIOGER S.A.S. E.S.P."
+    },
+    {
+        "company": 63,
+        "company_code": "CMM",
+        "company_name": "CARIBEMAR DE LA COSTA S.A.S. E.S.P."
+    },
+    {
+        "company": 64,
+        "company_code": "ESP",
+        "company_name": "EMPRESA DE SERVICIOS PUBLICOS DE SANTANDER S.A E.S.P"
+    },
+    {
+        "company": 65,
+        "company_code": "TEN",
+        "company_name": "TRANSACCIONES ENERG\u00c9TICAS S.A.S. EMPRESA DE SERVICIOS P\u00daBLICOS E.S.P"
+    },
+    {
+        "company": 66,
+        "company_code": "CAS",
+        "company_name": "EMPRESA DE ENERGIA DE CASANARE S.A. E.S.P."
+    },
+    {
+        "company": 67,
+        "company_code": "PTT",
+        "company_name": "SOCIEDAD DE ECONOMIA MIXTA ALUMBRADO PUBLICO DE PITALITO S.A.S E.S.P"
+    },
+    {
+        "company": 68,
+        "company_code": "CTE",
+        "company_name": "CONSULTORES EN ENERGIA S.A.S. E.S.P."
+    },
+    {
+        "company": 69,
+        "company_code": "CNR",
+        "company_name": "COENERSA S.A.S. E.S.P."
+    },
+    {
+        "company": 70,
+        "company_code": "EFE",
+        "company_name": "E2 ENERGIA EFICIENTE S.A. E.S.P."
+    },
+    {
+        "company": 71,
+        "company_code": "ENV",
+        "company_name": "ENERVISA S.A.S E.S.P."
+    },
+    {
+        "company": 72,
+        "company_code": "MER",
+        "company_name": "MERELEC COLOMBIA S.A.S. E.S.P."
+    },
+    {
+        "company": 73,
+        "company_code": "CAF",
+        "company_name": "COMERCIALIZADORA DEL CAFE S.A.S E.S.P"
+    },
+    {
+        "company": 74,
+        "company_code": "ESS",
+        "company_name": "ELECTRIFICADORA DE SANTANDER S.A. E.S.P."
+    },
+    {
+        "company": 75,
+        "company_code": "EXE",
+        "company_name": "ENEL X COLOMBIA S.A.S ESP"
+    },
+    {
+        "company": 76,
+        "company_code": "NEU",
+        "company_name": "NEU ENERGY S.A.S E.S.P"
+    },
+    {
+        "company": 77,
+        "company_code": "CQT",
+        "company_name": "ELECTRIFICADORA DEL CAQUETA S.A. E.S.P."
+    },
+    {
+        "company": 78,
+        "company_code": "LES",
+        "company_name": "MESSER ENERGY SERVICES SAS ESP"
+    },
+    {
+        "company": 79,
+        "company_code": "GSY",
+        "company_name": "GENERSYS S.A.S. E.S.P."
+    },
+    {
+        "company": 80,
+        "company_code": "BEI",
+        "company_name": "BEAM ENERGY INNOVATION S.A.S. E.S.P."
+    },
+    {
+        "company": 81,
+        "company_code": "CER",
+        "company_name": "CEE ENERGY SAS ESP"
+    },
+    {
+        "company": 82,
+        "company_code": "ERN",
+        "company_name": "\u00c9RGON ENERGY SAS ESP"
+    },
+    {
+        "company": 83,
+        "company_code": "EGT",
+        "company_name": "ENERGETICOS S.A.S E.S.P."
+    },
+    {
+        "company": 84,
+        "company_code": "BTG",
+        "company_name": "BTG PACTUAL COMERCIALIZADORA DE ENERG\u00cdA S.A.S. E.S.P"
+    },
+    {
+        "company": 85,
+        "company_code": "LME",
+        "company_name": "LUMINA ENERGY S.A.S. E.S.P."
+    },
+    {
+        "company": 86,
+        "company_code": "TPL",
+        "company_name": "TERPEL ENERG\u00cdA S.A.S. E.S.P."
+    },
+    {
+        "company": 87,
+        "company_code": "CTI",
+        "company_name": "EMPRESAS MUNICIPALES DE CARTAGO E.S.P."
+    },
+    {
+        "company": 88,
+        "company_code": "GWO",
+        "company_name": "GREENWOOD ENERGY S.A.S. E.S.P"
+    },
+    {
+        "company": 89,
+        "company_code": "PLS",
+        "company_name": "PLUSENERGY S.A.S. E.S.P."
+    },
+    {
+        "company": 90,
+        "company_code": "EMP",
+        "company_name": "EMPRESA MUNICIPAL DE SERVICIOS PUBLICOS DE CARTAGENA DEL CHAIRA"
+    },
+    {
+        "company": 91,
+        "company_code": "PEE",
+        "company_name": "PROFESIONALES EN ENERGIA S.A. E.S.P."
+    },
+    {
+        "company": 92,
+        "company_code": "SEJ",
+        "company_name": "SOL DEL EJE S.A.S E.S.P"
+    },
+    {
+        "company": 93,
+        "company_code": "COL",
+        "company_name": "COLENERGIA S.A. E.S.P."
+    },
+    {
+        "company": 94,
+        "company_code": "EVS",
+        "company_name": "EMPRESA DE ENERGIA DEL VALLE DE SIBUNDOY S.A. E.S.P."
+    },
+    {
+        "company": 95,
+        "company_code": "SOU",
+        "company_name": "SOUL ENERGY SAS ESP"
+    },
+    {
+        "company": 96,
+        "company_code": "ITL",
+        "company_name": "ITALCOL ENERGIA S.A. E.S.P."
+    },
+    {
+        "company": 97,
+        "company_code": "LTE",
+        "company_name": "LATINOAMERICAN ENERGY S.A.S E.S.P."
+    },
+    {
+        "company": 98,
+        "company_code": "GAS",
+        "company_name": "GENERARCO S.A.S. E.S.P."
+    },
+    {
+        "company": 99,
+        "company_code": "DMR",
+        "company_name": "DEMAND RESPONSE SAS ESP"
+    },
+    {
+        "company": 100,
+        "company_code": "HEM",
+        "company_name": "HIDROENERGIA DE LA MONTA\u00d1A S.A.S E.S.P"
+    },
+    {
+        "company": 101,
+        "company_code": "NRC",
+        "company_name": "ENERCO S.A. E.S.P."
+    },
+    {
+        "company": 102,
+        "company_code": "SVC",
+        "company_name": "SVC ESP SAS ZOMAC"
+    },
+    {
+        "company": 103,
+        "company_code": "VNR",
+        "company_name": "VIENTOS DEL NORTE S.A.S. E.S.P."
+    },
+    {
+        "company": 104,
+        "company_code": "EOE",
+        "company_name": "EOLOS ENERG\u00cdA S.A.S. E.S.P."
+    },
+    {
+        "company": 105,
+        "company_code": "TRI",
+        "company_name": "TERMOCARTAGENA S.A. E.S.P."
+    },
+    {
+        "company": 106,
+        "company_code": "BDJ",
+        "company_name": "BIOGAS COLOMBIA S.A.S. E.S.P "
+    },
+    {
+        "company": 107,
+        "company_code": "PCY",
+        "company_name": "P.CH EL COCUYO SAS ESP"
+    },
+    {
+        "company": 108,
+        "company_code": "ECB",
+        "company_name": "ECOARDOBELA I S.A.S. E.S.P."
+    },
+    {
+        "company": 109,
+        "company_code": "CHZ",
+        "company_name": "CENTRAL HIDROEL\u00c9CTRICA ZEUS SAS ESP"
+    },
+    {
+        "company": 110,
+        "company_code": "ERR",
+        "company_name": "ERCO GENERACION S.A.S. ESP"
+    },
+    {
+        "company": 111,
+        "company_code": "NTC",
+        "company_name": "NITRO ENERGY COLOMBIA S.A.S. E.S.P."
+    },
+    {
+        "company": 112,
+        "company_code": "SOC",
+        "company_name": "COMPA\u00d1\u00cdA EL\u00c9CTRICA DE SOCHAGOTA  S.A. E.S.P."
+    },
+    {
+        "company": 113,
+        "company_code": "MCA",
+        "company_name": "EMPRESA MULTIPROPOSITO DE CALARCA S.A. E.S.P."
+    },
+    {
+        "company": 114,
+        "company_code": "SGM",
+        "company_name": "SIGMA2 COMERCIALIZADORA  DE ENERGIA ELECTRICA SAS ESP"
+    },
+    {
+        "company": 115,
+        "company_code": "SDC",
+        "company_name": "SOL DE LAS CI\u00c9NAGAS S.A.S. E.S.P."
+    },
+    {
+        "company": 116,
+        "company_code": "SLM",
+        "company_name": "SPK LA MATA S.A.S E.S.P"
+    },
+    {
+        "company": 117,
+        "company_code": "EMU",
+        "company_name": "EMPRESA URRA S.A. E.S.P."
+    },
+    {
+        "company": 118,
+        "company_code": "SDE",
+        "company_name": "SOLAR EL ED\u00c9N S.A.S. E.S.P."
+    },
+    {
+        "company": 119,
+        "company_code": "YGS",
+        "company_name": "YARIGUIES SOLAR S.A.S. E.S.P."
+    },
+    {
+        "company": 120,
+        "company_code": "SLU",
+        "company_name": "SPK LA UNI\u00d3N S.A.S. E.S.P."
+    },
+    {
+        "company": 121,
+        "company_code": "HDP",
+        "company_name": "HIDROELECTRICA DEL ALTO PORCE S.A.S. E.S.P."
+    },
+    {
+        "company": 122,
+        "company_code": "RPE",
+        "company_name": "RIOPAILA ENERG\u00cdA S.A.S. E.S.P."
+    },
+    {
+        "company": 123,
+        "company_code": "COX",
+        "company_name": "COX ENERGY COMERCIALIZADORA SAS ESP"
+    },
+    {
+        "company": 124,
+        "company_code": "HIM",
+        "company_name": "GESTION ENERGETICA S.A. E.S.P."
+    },
+    {
+        "company": 125,
+        "company_code": "PEC",
+        "company_name": "PROYECTOS ENERGETICOS DEL CAUCA S.A. E.S.P."
+    },
+    {
+        "company": 126,
+        "company_code": "GSA",
+        "company_name": "GENERSA S.A.S. E.S.P."
+    },
+    {
+        "company": 127,
+        "company_code": "ISG",
+        "company_name": "ISAGEN S.A. E.S.P."
+    },
+    {
+        "company": 128,
+        "company_code": "CSM",
+        "company_name": "SOLAR VILLAVIEJA S.A.S. E.S.P."
+    },
+    {
+        "company": 129,
+        "company_code": "GPE",
+        "company_name": "EMPRESA DE GENERACION Y PROMOCION DE ENERGIA DE ANTIOQUIA S.A. E.S.P."
+    },
+    {
+        "company": 130,
+        "company_code": "SOV",
+        "company_name": "SOLANO RENOVABLES S.A.S. E.S.P."
+    },
+    {
+        "company": 131,
+        "company_code": "PSV",
+        "company_name": "PARQUE SOLAR COLOMBIA XIV S.A.S."
+    },
+    {
+        "company": 132,
+        "company_code": "FAR",
+        "company_name": "FOTOVOLTAICO ARRAYANES S.A.S. E.S.P."
+    },
+    {
+        "company": 133,
+        "company_code": "COR",
+        "company_name": "PROYECTO SOLAR COROZO SAS ESP"
+    },
+    {
+        "company": 134,
+        "company_code": "ADC",
+        "company_name": "ENERGIA DEL RIO PIEDRAS S.A. E.S.P"
+    },
+    {
+        "company": 135,
+        "company_code": "ELI",
+        "company_name": "ENERGIA LIMPIA Y EFICIENTE S.A.S ESP"
+    },
+    {
+        "company": 136,
+        "company_code": "ENG",
+        "company_name": "ENERGETICA S.A. E.S.P."
+    },
+    {
+        "company": 137,
+        "company_code": "DRU",
+        "company_name": "DRUMMOND POWER S.A.S. E.S.P."
+    },
+    {
+        "company": 138,
+        "company_code": "PCE",
+        "company_name": "PROMOENERCOL COMERCIALIZADORA DE ENERG\u00cdA S.A.S E.S.P"
+    },
+    {
+        "company": 139,
+        "company_code": "TRF",
+        "company_name": "TRINA SOLAR GENERADOR COLOMBIA"
+    },
+    {
+        "company": 140,
+        "company_code": "GCM",
+        "company_name": "GENERCOMERCIAL S.A.S E.S.P"
+    },
+    {
+        "company": 141,
+        "company_code": "TCB",
+        "company_name": "TERMO CARIBE S.A.S. E.S.P."
+    },
+    {
+        "company": 142,
+        "company_code": "VES",
+        "company_name": "VOLTAJE EMPRESARIAL S.A.S. E.S.P."
+    },
+    {
+        "company": 143,
+        "company_code": "AXE",
+        "company_name": "AXIA ENERGIA S.A.S. E.S.P."
+    },
+    {
+        "company": 144,
+        "company_code": "EXI",
+        "company_name": "ENERXIA COLOMBIA SAS ESP"
+    },
+    {
+        "company": 145,
+        "company_code": "HCC",
+        "company_name": "CENTRAL HIDROEL\u00c9CTRICA CONCORDIA S.A.S. E.S.P."
+    },
+    {
+        "company": 146,
+        "company_code": "TMM",
+        "company_name": "TERMO MECHERO MORRO S.A.S E.S.P "
+    },
+    {
+        "company": 147,
+        "company_code": "CSI",
+        "company_name": "AIR-E S.A.S. E.S.P."
+    },
+    {
+        "company": 148,
+        "company_code": "EMS",
+        "company_name": "ELECTRIFICADORA DEL META S.A. E.S.P."
+    },
+    {
+        "company": 149,
+        "company_code": "PRI",
+        "company_name": "PROELECTRICA S.A.S E.S.P."
+    },
+    {
+        "company": 150,
+        "company_code": "TCN",
+        "company_name": "GENERADORA TERMOCENTRO S.A.S. E.S.P."
+    },
+    {
+        "company": 151,
+        "company_code": "XAF",
+        "company_name": "ABO WIND RENOVABLES PROYECTO DIECISIETE S.A.S. E.S.P"
+    },
+    {
+        "company": 152,
+        "company_code": "NMR",
+        "company_name": "ENERMAS SAS ESP"
+    },
+    {
+        "company": 153,
+        "company_code": "SOL",
+        "company_name": "PARQUE SOLAR COLOMBIA I S.A.S."
+    },
+    {
+        "company": 154,
+        "company_code": "IAC",
+        "company_name": "IAC ENERGY S.A.S. E.S.P."
+    },
+    {
+        "company": 155,
+        "company_code": "CDN",
+        "company_name": "CENTRALES ELECTRICAS DE NARI\u00d1O S.A. E.S.P."
+    },
+    {
+        "company": 156,
+        "company_code": "CPS",
+        "company_name": "EL CAMPANO SOLAR S.A.S. E.S.P. "
+    },
+    {
+        "company": 157,
+        "company_code": "EME",
+        "company_name": "EMPRESA MUNICIPAL DE ENERGIA ELECTRICA S.A. E.S.P."
+    },
+    {
+        "company": 158,
+        "company_code": "ABA",
+        "company_name": "AURES BAJO S.A.S. E.S.P."
+    },
+    {
+        "company": 159,
+        "company_code": "PDS",
+        "company_name": "PARQUE SOLAR PORTON DEL SOL SAS ESP"
+    },
+    {
+        "company": 160,
+        "company_code": "GCY",
+        "company_name": "GENERADORA CANTAY\u00daS S.A.S E.S.P"
+    },
+    {
+        "company": 161,
+        "company_code": "TMV",
+        "company_name": "ENFRAGEN TERMOVALLE S.A.S. EMPRESA DE SERVICIOS PUBLICOS"
+    },
+    {
+        "company": 162,
+        "company_code": "HLA",
+        "company_name": "ELECTRIFICADORA DEL HUILA S.A. E.S.P."
+    },
+    {
+        "company": 163,
+        "company_code": "FTN",
+        "company_name": "FOTOVOLTAICO TOLIMA NORTE S.A.S E.S.P"
+    },
+    {
+        "company": 164,
+        "company_code": "DLR",
+        "company_name": "DICELER S.A. E.S.P."
+    },
+    {
+        "company": 165,
+        "company_code": "TER",
+        "company_name": "TERMOTASAJERO DOS S.A. E.S.P. "
+    },
+    {
+        "company": 166,
+        "company_code": "PSC",
+        "company_name": "PROYECTO SOLAR CIMITARRA SAS ESP"
+    },
+    {
+        "company": 167,
+        "company_code": "GAL",
+        "company_name": "GENERADORA ALEJANDRIA S.A.S. E.S.P."
+    },
+    {
+        "company": 168,
+        "company_code": "SPK",
+        "company_name": "ZELESTRA COLOMBIA S.A.S. E.S.P."
+    },
+    {
+        "company": 169,
+        "company_code": "TRM",
+        "company_name": "TERMOTASAJERO S.A. E.S.P."
+    },
+    {
+        "company": 170,
+        "company_code": "XFR",
+        "company_name": "ABO WIND RENOVABLES PROYECTO DIECISEIS S.A.S. ESP"
+    },
+    {
+        "company": 171,
+        "company_code": "CTC",
+        "company_name": "CENTRAL TERMOCARTAGENA SAS ESP"
+    },
+    {
+        "company": 172,
+        "company_code": "ORO",
+        "company_name": "PARQUE SOLAR PUERTA DE ORO S.A.S. E.S.P."
+    },
+    {
+        "company": 173,
+        "company_code": "DUC",
+        "company_name": "DUCK ENERGY S.A.S. ESP"
+    },
+    {
+        "company": 174,
+        "company_code": "GRC",
+        "company_name": "GR POWER COLOMBIA S.A.S E.S.P."
+    },
+    {
+        "company": 175,
+        "company_code": "CCG",
+        "company_name": "CCG ENERGY S.A.S. E.S.P."
+    },
+    {
+        "company": 176,
+        "company_code": "RTA",
+        "company_name": "SPECTRUM RENOVAVEIS S.A.S. E.S.P."
+    },
+    {
+        "company": 177,
+        "company_code": "UNG",
+        "company_name": "UNERGY ENERGY DIGITAL S.A.S E.S.P"
+    },
+    {
+        "company": 178,
+        "company_code": "JOA",
+        "company_name": "GENERADORA SAN JOAQUIN SAS ESP"
+    },
+    {
+        "company": 179,
+        "company_code": "GNS",
+        "company_name": "GENERSOL S.A.S. E.S.P."
+    },
+    {
+        "company": 180,
+        "company_code": "TCI",
+        "company_name": "TERMOCANDELARIA S.A.S."
+    },
+    {
+        "company": 181,
+        "company_code": "TRN",
+        "company_name": "TRINA SOLAR GENERADOR COLOMBIA"
+    },
+    {
+        "company": 182,
+        "company_code": "CAL",
+        "company_name": "EMPRESAS PUBLICAS DE CALARCA ESP"
+    },
+    {
+        "company": 183,
+        "company_code": "EYC",
+        "company_name": "ENERGIA Y GAS DE COLOMBIA SAS ESP"
+    },
+    {
+        "company": 184,
+        "company_code": "ESU",
+        "company_name": "ENERGIA DEL SUROESTE S.A. E.S.P."
+    },
+    {
+        "company": 185,
+        "company_code": "CHV",
+        "company_name": "AES COLOMBIA & CIA. S.C.A. E.S.P."
+    },
+    {
+        "company": 186,
+        "company_code": "REN",
+        "company_name": "RISARALDA ENERGIA S.A.S. E.S.P."
+    },
+    {
+        "company": 187,
+        "company_code": "SFE",
+        "company_name": "SANTA FE ENERGY ZOMAC S.A.S. E.S.P."
+    },
+    {
+        "company": 188,
+        "company_code": "AAG",
+        "company_name": "ATL\u00c1NTICA COLOMBIA S.A.S. E.S.P."
+    },
+    {
+        "company": 189,
+        "company_code": "CEO",
+        "company_name": "COMPA\u00d1IA ENERGETICA DE OCCIDENTE S.A.S. ESP"
+    },
+    {
+        "company": 190,
+        "company_code": "TMN",
+        "company_name": "TERMONORTE S.A.S. E.S.P."
+    },
+    {
+        "company": 191,
+        "company_code": "MAT",
+        "company_name": "PROYECTO SOLAR MATIMBA II S.A.S ESP"
+    },
+    {
+        "company": 192,
+        "company_code": "OTA",
+        "company_name": "OTACC GENERACION S.A.S. E.S.P."
+    },
+    {
+        "company": 193,
+        "company_code": "GNY",
+        "company_name": "GREENYELLOW COMERCIALIZADORA S.A.S. E.S.P."
+    },
+    {
+        "company": 194,
+        "company_code": "SOE",
+        "company_name": "SOUTH32 ENERGY S.A.S E.S.P"
+    },
+    {
+        "company": 195,
+        "company_code": "PSX",
+        "company_name": "PARQUE SOLAR COLOMBIA X S.A.S."
+    },
+    {
+        "company": 196,
+        "company_code": "GEC",
+        "company_name": "GENERADORA Y COMERCIALIZADORA DE ENERGIA DEL CARIBE S.A. E.S.P."
+    },
+    {
+        "company": 197,
+        "company_code": "RFV",
+        "company_name": "REFOENERGY VILLANUEVA S.A.S E.S.P."
+    },
+    {
+        "company": 198,
+        "company_code": "TMF",
+        "company_name": "ENFRAGEN TERMOFLORES S.A.S. E.S.P."
+    },
+    {
+        "company": 199,
+        "company_code": "BCC",
+        "company_name": "BCCY CORDOBA S.A.S. E.S.P."
+    },
+    {
+        "company": 200,
+        "company_code": "EGR",
+        "company_name": "4E GROUP S.A.S E.S.P."
+    },
+    {
+        "company": 201,
+        "company_code": "ORQ",
+        "company_name": "LA ORQUIDEA SOLAR S.A.S. E.S.P. "
+    },
+    {
+        "company": 202,
+        "company_code": "EPM",
+        "company_name": "EMPRESAS PUBLICAS DE MEDELLIN E.S.P."
+    },
+    {
+        "company": 203,
+        "company_code": "HZE",
+        "company_name": "HZ ENERGY S.A.S. E.S.P."
+    },
+    {
+        "company": 204,
+        "company_code": "CTZ",
+        "company_name": "CENTRAL HIDROEL\u00c9CTRICA TZ II S.A.S. E.S.P."
+    },
+    {
+        "company": 205,
+        "company_code": "EBS",
+        "company_name": "EMPRESA DE ENERGIA DE BOYACA S.A. E.S.P."
+    },
+    {
+        "company": 206,
+        "company_code": "MAR",
+        "company_name": "SOLAR LAS MARIAS SAS ESP"
+    },
+    {
+        "company": 207,
+        "company_code": "COG",
+        "company_name": "COMERCIALIZADORA 4G ENERGIA SAS ESP"
+    },
+    {
+        "company": 208,
+        "company_code": "TBS",
+        "company_name": "TERMOBARRANQUILLA S.A. EMPRESA DE SERVICIOS PUBLICOS"
+    },
+    {
+        "company": 209,
+        "company_code": "ERC",
+        "company_name": "ENERGIA RENOVABLE DE COLOMBIA S.A.S E.S.P."
+    },
+    {
+        "company": 210,
+        "company_code": "FER",
+        "company_name": "FUENTES DE ENERGIAS RENOVABLES S.A.S. E.S.P."
+    },
+    {
+        "company": 211,
+        "company_code": "GPY",
+        "company_name": "GENERPUTUMAYO S.A.S. E.S.P."
+    },
+    {
+        "company": 212,
+        "company_code": "EGE",
+        "company_name": "EMPRESA GENERADORA Y COMERCIALIZADORA DE ENERGIA ELECTRICA DE COLOMBIA S.A. E.S.P."
+    },
+    {
+        "company": 213,
+        "company_code": "PSB",
+        "company_name": "PCH SAN BARTOLOME S.A.S. E.S.P. "
+    },
+    {
+        "company": 214,
+        "company_code": "TRP",
+        "company_name": "TERMOPIEDRAS S.A. E.S.P."
+    },
+    {
+        "company": 215,
+        "company_code": "TEM",
+        "company_name": "TERMOEMCALI I S.A. E.S.P."
+    },
+    {
+        "company": 216,
+        "company_code": "PSG",
+        "company_name": "PARQUE SOLAR LOS GIRASOLES S.A.S ESP"
+    },
+    {
+        "company": 217,
+        "company_code": "CMX",
+        "company_name": "CEMEX ENERGY S.A.S E.S.P."
+    },
+    {
+        "company": 218,
+        "company_code": "GNC",
+        "company_name": "VATIA S.A. E.S.P."
+    },
+    {
+        "company": 219,
+        "company_code": "CIE",
+        "company_name": "COMPA\u00d1\u00cdA INTEGRAL ENERGETICA S.A.S E.S.P"
+    },
+    {
+        "company": 220,
+        "company_code": "EDN",
+        "company_name": "EDN COLOMBIA S.A.S. E.S.P."
+    },
+    {
+        "company": 221,
+        "company_code": "FYR",
+        "company_name": "FOTOVOLTAICO EL YARUMO SAS ESP"
+    },
+    {
+        "company": 222,
+        "company_code": "SPR",
+        "company_name": "ESPACIO PRODUCTIVO S.A.S. E.S.P."
+    },
+    {
+        "company": 223,
+        "company_code": "TYP",
+        "company_name": "TERMOYOPAL GENERACION 2 S.A.S E.S.P."
+    },
+    {
+        "company": 224,
+        "company_code": "EMI",
+        "company_name": "EMPRESAS MUNICIPALES DE CALI E.I.C.E. E.S.P."
+    },
+    {
+        "company": 225,
+        "company_code": "GEE",
+        "company_name": "GENERAMOS ENERGIA S.A. E.S.P."
+    },
+    {
+        "company": 226,
+        "company_code": "NUE",
+        "company_name": "NUEVAS ENERGIAS II S.A.S. ESP"
+    },
+    {
+        "company": 227,
+        "company_code": "END",
+        "company_name": "ENEL COLOMBIA SA ESP"
+    },
+    {
+        "company": 228,
+        "company_code": "SHA",
+        "company_name": "OPERADORA SHANGRI-LA S.A.S E.S.P"
+    },
+    {
+        "company": 229,
+        "company_code": "EEP",
+        "company_name": "EMPRESA DE ENERGIA DE PEREIRA S.A. E.S.P."
+    },
+    {
+        "company": 230,
+        "company_code": "DEP",
+        "company_name": "DEPI ENERGY S.A.S. E.S.P."
+    },
+    {
+        "company": 231,
+        "company_code": "GBU",
+        "company_name": "GENERADORA BUENAVISTA S.A.S E.S.P"
+    },
+    {
+        "company": 232,
+        "company_code": "TAM",
+        "company_name": "TAMARINO COLOMBIA S.A.S. E.S.P."
+    },
+    {
+        "company": 233,
+        "company_code": "EPS",
+        "company_name": "CELSIA COLOMBIA S.A. E.S.P."
+    },
+    {
+        "company": 234,
+        "company_code": "CET",
+        "company_name": "COMPA\u00d1IA DE ELECTRICIDAD DE TULUA S.A. E.S.P."
+    },
+    {
+        "company": 235,
+        "company_code": "HDT",
+        "company_name": "HIDROTOLIMA S.A. E.S.P."
+    },
+    {
+        "company": 236,
+        "company_code": "CDI",
+        "company_name": "CENTRALES ELECTRICAS DEL CAUCA S.A. E.S.P."
+    },
+    {
+        "company": 237,
+        "company_code": "VCH",
+        "company_name": "VACHE S.A.S E.S.P."
+    },
+    {
+        "company": 238,
+        "company_code": "HBC",
+        "company_name": "HIDROELECTRICA BARRANCAS SAS ESP"
+    }
+]

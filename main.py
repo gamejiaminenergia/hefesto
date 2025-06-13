@@ -123,8 +123,7 @@ def create_records():
     all_records = []
     for company_data in companies:
         company_records = process_company_data(company_data, template)
-        for record in tqdm(company_records, 
-                         desc=f"Processing {company_data['company_code']}"):
+        for record in company_records:
             all_records.append(record)
     
     # Configurar y actualizar base de datos
@@ -137,16 +136,20 @@ def create_records():
         inserted, existing = process_records(cursor, all_records)
         conn.commit()
         
-        # Mostrar resumen
-        print(f"\n📊 Resumen de la ejecución:")
-        print(f"- Total de registros procesados: {len(all_records)}")
-        print(f"- Nuevos registros insertados: {inserted}")
-        print(f"- Registros existentes: {existing}")
+        # Mostrar resumen con formato mejorado
+        print("\n" + "="*60)
+        print("📊 RESUMEN DE PROCESAMIENTO DE REGISTROS".center(60))
+        print("="*60)
+        print(f"{'Total de registros procesados:':<40} {len(all_records):>20,}")
+        print(f"{'Nuevos registros insertados:':<40} {inserted:>20,}")
+        print(f"{'Registros existentes:':<40} {existing:>20,}")
+        print("-"*60)
         
         if inserted > 0:
-            print("✅ Proceso completado con éxito")
+            print("✅ PROCESO COMPLETADO: Se insertaron nuevos registros exitosamente".center(60))
         else:
-            print("ℹ️ No se insertaron nuevos registros (todos los registros ya existían)")
+            print("ℹ️  INFORMACIÓN: No se insertaron registros nuevos (todos los registros ya existían)".center(60))
+        print("="*60)
             
     finally:
         cursor.close()
@@ -162,8 +165,33 @@ def update_market_analysis_records():
             WHERE (info->>'status')::int = 0
         """)
         
+        records = cursor.fetchall()
+        total_records = len(records)
         updated = 0
-        for record in cursor.fetchall():
+        
+        print("\n" + "="*60)
+        print("🔄 ACTUALIZACIÓN DE ANÁLISIS DE MERCADO".center(60))
+        print("="*60)
+        
+        if total_records == 0:
+            print("ℹ️  No hay registros pendientes de actualizar".center(60))
+            print("="*60)
+            return
+            
+        print(f"{'Registros a actualizar:':<40} {total_records:>20,}")
+        print("-"*60)
+        
+        # Configurar la barra de progreso
+        progress_bar = tqdm(
+            records,
+            desc="Actualizando registros",
+            unit="registro",
+            ncols=80,
+            bar_format='{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}<{remaining}]',
+            leave=False
+        )
+        
+        for record in progress_bar:
             record_id, prompt, system_template = record
             # Calcular el nuevo market_analysis
             new_analysis = calculate_market_analysis(prompt, system_template)
@@ -183,12 +211,24 @@ def update_market_analysis_records():
                 WHERE id = %s
             """, (new_analysis, record_id))
             updated += 1
+            
+            # Actualizar la descripción de la barra de progreso
+            progress_bar.set_postfix({"Actualizados": f"{updated}/{total_records}"})
         
         conn.commit()
-        print(f"✅ {updated} registros actualizados con éxito")
+        print("\n" + "="*60)
+        print("🔄 ACTUALIZACIÓN DE ANÁLISIS DE MERCADO".center(60))
+        print("="*60)
+        print(f"{'Registros actualizados:':<40} {updated:>20,}")
+        print("✅ PROCESO DE ACTUALIZACIÓN COMPLETADO CON ÉXITO".center(60))
+        print("="*60)
     except Exception as e:
         conn.rollback()
-        print(f"❌ Error al actualizar registros: {e}")
+        print("\n" + "="*60)
+        print("❌ ERROR EN LA ACTUALIZACIÓN DE REGISTROS".center(60))
+        print("="*60)
+        print(f"Error: {e}")
+        print("="*60)
         raise
     finally:
         cursor.close()
